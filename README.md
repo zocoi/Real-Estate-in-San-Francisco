@@ -3,6 +3,7 @@
 **Blogs**
 
  - http://hackerengineer.net/blog/2012/04/24/so-you-re-thinking-about-buying-a-home-eh-/
+ - http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624
 
 **Metrics**
 
