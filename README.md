@@ -9,5 +9,6 @@
 
  - [SF in Progress housing development mapping project](https://github.com/sfbrigade/San-Francisco-in-Progress) 
 	 - live website: http://sf-in-progress.surge.sh/
+ - [Thirty Years of San Francisco Real Estate Cycles](http://www.paragon-re.com/3_Recessions_2_Bubbles_and_a_Baby)
  - Crimewatch
  
